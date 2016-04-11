@@ -1,1 +1,0 @@
-# encapsulasi-dan-pewarisan
